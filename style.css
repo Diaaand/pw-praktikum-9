@@ -1,0 +1,25 @@
+a.button {
+  -webkit-appearance: button;
+  -moz-appearance: button;
+  appearance: button;
+
+  text-decoration: none;
+  color: initial;
+}
+
+h1 {
+  text-align: center;
+}
+
+.kotak {
+  border: 3px;
+  background-color: lightsteelblue;
+  text-align: center;
+  width: 400px;
+  margin: auto;
+  border-radius: 9px;
+}
+
+.inp {
+  border-radius: 9px;
+}
